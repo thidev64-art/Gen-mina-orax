@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mina-verified-001",
+    "languageId": "mina",
+    "text": "Ndi na mi, eŋuti fafa le mia gbɔ a ?",
+    "category": "daily_life",
+    "difficulty": "easy",
+    "source": "Enquête linguistique Lomé 2026",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-verified-002",
+    "languageId": "mina",
+    "text": "Mia dogo le zã me, mawu na kpe ɖe mia ŋu.",
+    "category": "daily_life",
+    "difficulty": "easy",
+    "source": "Enquête linguistique Lomé 2026",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-verified-003",
+    "languageId": "mina",
+    "text": "Nu ɖeka ɖeka wotona yia teƒe didi.",
+    "category": "cultural",
+    "difficulty": "medium",
+    "source": "Proverbe populaire validé par locuteur natif",
+    "validatedByNativeSpeaker": true
+  }
+]

@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+dist/
+build/
+
+# Local storage data (audio uploads, local metadata & local backups)
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/backups/
+backend/data/*.json
+!backend/data/prompts.json
+!backend/data/languages.json
+!backend/data/mina_udhr_corpus.json
+!backend/data/mina_corpus_template.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Scratch & temporary files
+scratch_*
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

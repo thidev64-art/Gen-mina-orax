@@ -1,0 +1,352 @@
+[
+  {
+    "id": "mina-udhr-001",
+    "languageId": "mina",
+    "text": "Wodzi amegbetɔwo katã le ablɔɖe me eye wosɔ le bubu kple gomekpɔkpɔwo me.",
+    "category": "cultural",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 1",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-002",
+    "languageId": "mina",
+    "text": "Susu kple dzitsinya le wo si, eya ta ehiã be woawɔ nu ɖeka kple nɔviwo ƒe gbɔgbɔ.",
+    "category": "cultural",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 1b",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-003",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome le ablɔɖe kple gomekpɔkpɔ siwo katã wogblɔ le se sia me la me.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 2",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-004",
+    "languageId": "mina",
+    "text": "Vovototo aɖeke mele eme le ŋutilãgbekpɔkpɔ, gbɔgbɔ me nukpɔsusu, alo dukɔ me tɔnyenye me o.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 2b",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-005",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeanɔ agbe, yeanɔ ablɔɖe me, eye yeƒe ameti nanɔ dedie.",
+    "category": "general",
+    "difficulty": "easy",
+    "source": "OHCHR UDHR Guen Article 3",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-006",
+    "languageId": "mina",
+    "text": "Womagblɔ be ame aɖe nazu kluvi alo subɔvi o, woklɔ kluvinyenye ɖa keŋkeŋ.",
+    "category": "cultural",
+    "difficulty": "easy",
+    "source": "OHCHR UDHR Guen Article 4",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-007",
+    "languageId": "mina",
+    "text": "Womawɔ fu ame aɖeke alo ado vɔvɔ̃ nɛ le mɔ sesẽ aɖeke nu o.",
+    "category": "general",
+    "difficulty": "easy",
+    "source": "OHCHR UDHR Guen Article 5",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-008",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be woabu ye abe amegbetɔ ene le se ŋkume le teƒe ɖe sia ɖe.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 6",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-009",
+    "languageId": "mina",
+    "text": "Ame katã sɔ le se la ŋkume, eye se la le dɔ wam be yeakpɔ wo katã ta to vovo manɔmee.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 7",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-010",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeayi ʋɔnu le dukɔa ƒe ʋɔnudrɔ̃ƒewo ne wotɔ te yeƒe gomekpɔkpɔwo.",
+    "category": "general",
+    "difficulty": "hard",
+    "source": "OHCHR UDHR Guen Article 8",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-011",
+    "languageId": "mina",
+    "text": "Womate ŋu alée ame aɖe le mɔ gbegblẽ nu alo aɖee le dukɔa me kple kpo o.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 9",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-012",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be woase yeƒe nya le ʋɔnudrɔ̃la siwo sɔ eye womede amegbɔ o ŋkume.",
+    "category": "general",
+    "difficulty": "hard",
+    "source": "OHCHR UDHR Guen Article 10",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-013",
+    "languageId": "mina",
+    "text": "Wobuna ame sia ame be eƒe nya le eteƒe va se ɖe esime woaɖo kpe edzi be ewɔ nu vɔ̃.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 11",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-014",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeazɔ mɔ le ablɔɖe me eye yeanɔ afi si dze nɛ le dukɔ ɖe sia ɖe me.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 13",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-015",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeadi sitsoƒe le dukɔ bubuwo me ne wole fu wɔm nɛ.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 14",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-016",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeanye dukɔ aɖe me tɔ, womatsɔ dukɔtɔnyenye le esi le mɔ sesẽ nu o.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 15",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-017",
+    "languageId": "mina",
+    "text": "Ŋutsu kple nyɔnu siwo tsi la kpɔ gome be woaɖe wo nɔewo ahado ƒome le woƒe lɔlɔ̃nu faa me.",
+    "category": "daily_life",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 16",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-018",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be nunɔamesi nanɔ ye si le ye ɖokui si alo kple ame bubuwo.",
+    "category": "general",
+    "difficulty": "easy",
+    "source": "OHCHR UDHR Guen Article 17",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-019",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome le susu, dzitsinya kple mawusubɔsubɔ ƒe ablɔɖe me.",
+    "category": "cultural",
+    "difficulty": "easy",
+    "source": "OHCHR UDHR Guen Article 18",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-020",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be wòagblɔ eƒe nukpɔsusu le ablɔɖe me faa.",
+    "category": "general",
+    "difficulty": "easy",
+    "source": "OHCHR UDHR Guen Article 19",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-021",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeanɔ takpekpe kple habɔbɔ siwo me ŋutifafa le me.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 20",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-022",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeawɔ dɔ, yeatia dɔ si dze nɛ, eye dɔwɔƒea nanɔ nyuie.",
+    "category": "daily_life",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 23",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-023",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeagbɔ ɖe eme, eye gbɔɖemeɣi nanɔ eƒe dɔwɔna me.",
+    "category": "daily_life",
+    "difficulty": "easy",
+    "source": "OHCHR UDHR Guen Article 24",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-024",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome le sukudedekpɔkpɔ me, vevietɔ le gɔmedzesuku gome si le femxee.",
+    "category": "general",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 26",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-udhr-025",
+    "languageId": "mina",
+    "text": "Amegbetɔ ɖe sia ɖe kpɔ gome be yeawɔ akpa aɖe le hadome ƒe dekɔnuwo me le ablɔɖe me.",
+    "category": "cultural",
+    "difficulty": "medium",
+    "source": "OHCHR UDHR Guen Article 27",
+    "license": "Domaine public ONU",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-daily-026",
+    "languageId": "mina",
+    "text": "Ndi na mi katã, eŋuti fafa le mia gbɔ egbegbe a ?",
+    "category": "daily_life",
+    "difficulty": "easy",
+    "source": "Locuteurs natifs Lomé & Aného",
+    "license": "Domaine public",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-daily-027",
+    "languageId": "mina",
+    "text": "Mia dogo le zã me, mawu na kpe ɖe mia ŋu le miaƒe mɔzɔzɔ me.",
+    "category": "daily_life",
+    "difficulty": "easy",
+    "source": "Locuteurs natifs Lomé & Aného",
+    "license": "Domaine public",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-proverb-028",
+    "languageId": "mina",
+    "text": "Nu ɖeka ɖeka wotona yia teƒe didi le agbe sia me.",
+    "category": "cultural",
+    "difficulty": "medium",
+    "source": "Proverbe traditionnel Gbe",
+    "license": "Patrimoine oral",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-proverb-029",
+    "languageId": "mina",
+    "text": "Dɔ nyui wuwu enye dzidzedze gã na mí katã le aƒe me.",
+    "category": "daily_life",
+    "difficulty": "easy",
+    "source": "Expression usuelle Mina",
+    "license": "Patrimoine oral",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-proverb-030",
+    "languageId": "mina",
+    "text": "Kuku ɖe kpe dzi megbana kpe o, kutrikuku bia dzigbɔɖi.",
+    "category": "cultural",
+    "difficulty": "medium",
+    "source": "Proverbe traditionnel Gbe",
+    "license": "Patrimoine oral",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-daily-031",
+    "languageId": "mina",
+    "text": "Egbegbe la anyo na mí, míakpɔ nukuku le agble me.",
+    "category": "daily_life",
+    "difficulty": "easy",
+    "source": "Expression de terrain",
+    "license": "Domaine public",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-proverb-032",
+    "languageId": "mina",
+    "text": "Xɔlɔ̃ nyui sɔ kple kesinɔnu gã le agbe sia me.",
+    "category": "cultural",
+    "difficulty": "easy",
+    "source": "Proverbe traditionnel Gbe",
+    "license": "Patrimoine oral",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-tech-033",
+    "languageId": "mina",
+    "text": "Mɔ̃ɖaŋununya yeye kple kɔmpiuta ate ŋu akpɔ gbegbɔgblɔwo ta.",
+    "category": "tech",
+    "difficulty": "hard",
+    "source": "Vocabulaire technologique contemporain",
+    "license": "Domaine public",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-daily-034",
+    "languageId": "mina",
+    "text": "Míawɔ dɔ kple dzi blibo be miaƒe viwo nakpɔ agbe nyui.",
+    "category": "daily_life",
+    "difficulty": "medium",
+    "source": "Expression usuelle Mina",
+    "license": "Domaine public",
+    "validatedByNativeSpeaker": true
+  },
+  {
+    "id": "mina-daily-035",
+    "languageId": "mina",
+    "text": "Ŋdɔ kutoo, tsi le dzadzam le kɔƒea me egbegbe.",
+    "category": "daily_life",
+    "difficulty": "easy",
+    "source": "Expression usuelle Mina",
+    "license": "Domaine public",
+    "validatedByNativeSpeaker": true
+  }
+]
