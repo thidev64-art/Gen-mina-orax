@@ -5,7 +5,8 @@ import { Prompt } from '../types/index.js';
 import { PROMPTS as BASE_PROMPTS } from './prompts.js';
 import { getSharedFirestoreClient } from '../repository/firestoreClient.js';
 
-const customPromptsFilePath = path.resolve(process.cwd(), 'data', 'prompts_custom.json');
+const runtimeDataDir = process.env.DATA_DIR || path.resolve(process.cwd(), 'data');
+const customPromptsFilePath = path.resolve(runtimeDataDir, 'prompts_custom.json');
 const bundledUdhrFilePath = path.resolve(process.cwd(), 'data', 'mina_udhr_corpus.json');
 const firestorePromptsCollection = process.env.FIRESTORE_PROMPTS_COLLECTION || 'prompts';
 

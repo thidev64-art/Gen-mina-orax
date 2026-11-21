@@ -20,12 +20,15 @@ backend/data/*.json
 !backend/data/mina_udhr_corpus.json
 !backend/data/mina_corpus_template.json
 
-# Environment variables
+# Environment variables & Firebase / Cloud private keys
 .env
 .env.local
 .env.*.local
 *.env
 !.env.example
+serviceAccountKey.json
+*serviceAccount*.json
+*-firebase-adminsdk-*.json
 
 # Logs
 npm-debug.log*

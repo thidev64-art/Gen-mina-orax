@@ -7,7 +7,8 @@ export class DiskAudioStorage implements AudioStorageService {
   private uploadDir: string;
 
   constructor(uploadDir?: string) {
-    this.uploadDir = uploadDir || path.resolve(process.cwd(), 'data', 'uploads');
+    const baseDataDir = process.env.DATA_DIR || path.resolve(process.cwd(), 'data');
+    this.uploadDir = uploadDir || path.resolve(baseDataDir, 'uploads');
     if (!fs.existsSync(this.uploadDir)) {
       fs.mkdirSync(this.uploadDir, { recursive: true });
     }

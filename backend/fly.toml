@@ -1,0 +1,47 @@
+# Configuration Fly.io pour Gen/Mina Backend API
+# Déploiement depuis le dossier backend/ :
+#   fly launch --no-deploy (ou fly apps create gen-mina-api)
+#   fly volumes create gen_mina_data --region cdg --size 1
+#   fly secrets set ADMIN_PASSWORD=... CORS_ORIGIN=... FIRESTORE_PROJECT_ID=gen-mina FIREBASE_SERVICE_ACCOUNT_JSON=...
+#   fly deploy
+
+app = 'gen-mina-api'
+primary_region = 'cdg'
+
+[build]
+  dockerfile = 'Dockerfile'
+
+[env]
+  NODE_ENV = 'production'
+  PORT = '8080'
+  HOST = '0.0.0.0'
+  DATA_DIR = '/data'
+  COOKIE_SAMESITE = 'none'
+  ADMIN_USERNAME = 'admin'
+  FIRESTORE_COLLECTION_NAME = 'recordings'
+  FIRESTORE_CONSENTS_COLLECTION = 'consents'
+  FIRESTORE_PROMPTS_COLLECTION = 'prompts'
+
+[mounts]
+  source = 'gen_mina_data'
+  destination = '/data'
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ['app']
+
+  [[http_service.checks]]
+    interval = '30s'
+    timeout = '5s'
+    grace_period = '10s'
+    method = 'GET'
+    path = '/api/health'
+
+[[vm]]
+  memory = '512mb'
+  cpu_kind = 'shared'
+  cpus = 1

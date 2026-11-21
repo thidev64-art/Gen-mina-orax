@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+*.env
+data/uploads
+data/backups
+data/recordings.json
+data/consents.json
+data/prompts_custom.json
+*.log

@@ -9,8 +9,8 @@ export class JsonFileMetadataRepository implements MetadataRepository {
   private filePath: string;
 
   constructor(filePath?: string) {
-    this.filePath =
-      filePath || path.resolve(process.cwd(), 'data', 'recordings.json');
+    const baseDataDir = process.env.DATA_DIR || path.resolve(process.cwd(), 'data');
+    this.filePath = filePath || path.resolve(baseDataDir, 'recordings.json');
     const dir = path.dirname(this.filePath);
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir, { recursive: true });

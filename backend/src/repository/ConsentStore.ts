@@ -65,7 +65,8 @@ export class ConsentStore implements IConsentStore {
   private filePath: string;
 
   constructor(filePath?: string) {
-    this.filePath = filePath || path.resolve(process.cwd(), 'data', 'consents.json');
+    const baseDataDir = process.env.DATA_DIR || path.resolve(process.cwd(), 'data');
+    this.filePath = filePath || path.resolve(baseDataDir, 'consents.json');
     const dir = path.dirname(this.filePath);
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir, { recursive: true });

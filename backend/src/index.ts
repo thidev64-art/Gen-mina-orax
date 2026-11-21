@@ -86,14 +86,15 @@ if (isProduction && !process.env.ADMIN_PASSWORD) {
   process.exit(1);
 }
 
-// Initialisation et démarrage
-app.listen(PORT, () => {
+// Initialisation et démarrage (0.0.0.0 requis pour Docker / Fly.io)
+const HOST = process.env.HOST || '0.0.0.0';
+app.listen(PORT, HOST, () => {
   const storage = getAudioStorage();
   const repo = getMetadataRepository();
   const consentStore = getConsentStore();
 
   console.log('====================================================');
-  console.log(`🚀 Serveur Gen/Mina démarré sur http://localhost:${PORT}`);
+  console.log(`🚀 Serveur Gen/Mina démarré sur http://${HOST}:${PORT}`);
   console.log(`📦 Stockage Audio actif       : ${storage.backendType}`);
   console.log(`🗄️  Dépôt Métadonnées actif    : ${repo.backendType}`);
   console.log(`🔐 Registre Consentements     : ${consentStore.backendType}`);
